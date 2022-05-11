@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'platzicursoweb1991'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E1190BDCD2B441D99C1B28141E882688 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A224023B497A4132BD0DC64551D5A2B5 }}
           package: .
