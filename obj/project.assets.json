@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\CM\\documents\\platziWeb\\platziWebSite\\platziWebSite.csproj",
+      "projectUniqueName": "C:\\Users\\CM\\Documents\\platziWeb\\SitioWebPlatzi\\platziWebSite.csproj",
       "projectName": "platziWebSite",
-      "projectPath": "C:\\Users\\CM\\documents\\platziWeb\\platziWebSite\\platziWebSite.csproj",
+      "projectPath": "C:\\Users\\CM\\Documents\\platziWeb\\SitioWebPlatzi\\platziWebSite.csproj",
       "packagesPath": "C:\\Users\\CM\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\CM\\documents\\platziWeb\\platziWebSite\\obj\\",
+      "outputPath": "C:\\Users\\CM\\Documents\\platziWeb\\SitioWebPlatzi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\CM\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -63,7 +63,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }
